@@ -44,10 +44,10 @@
 ### My Dev Statistics
 <p>
 <!-- GitHub Stats -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=freakeyplays&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&border_radius=15&theme=dark" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=freakeyplays&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&border_radius=15&theme=dark" />
 
 <!-- Most Used Languages -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakeyplays&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=15&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakeyplays&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=15&theme=dark"/>
 </p>
 
 [portfolio]: https://github.com/FreakeyPlays/Portfolio
