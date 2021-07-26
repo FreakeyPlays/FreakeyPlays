@@ -44,10 +44,10 @@
 ### My Dev Statistics
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=freakeyplays&show_icons=true&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=freakeyplays&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakeyplays&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakeyplays&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 [portfolio]: https://github.com/FreakeyPlays/Portfolio
