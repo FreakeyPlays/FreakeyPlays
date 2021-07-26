@@ -1,48 +1,56 @@
-### Hi there, I’m Chris 🌈 - aka [FreakeyPlays][portfolio] 👋
+<!-- Banner -->
+![banner](https://user-images.githubusercontent.com/78086475/126980922-013a3498-c6ea-444f-b422-2c1d373b85f1.png)
 
-## I’m a Student an love Coding!
+## Hi there, I’m Chris 🌈 - aka [FreakeyPlays][website] 👋
+
+<!-- Shields -->
+[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=CHRISTOPHMERCK.com&style=for-the-badge&up_color=83B81A&up_message=UP&url=http%3A%2F%2Fchristophmerck.com)](http://christophmerck.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/freakeyplays?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/FreakeyPlays)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-ScJRb4-DtdEyMVnDGEGcA?color=%23FF0000&label=Freakeyplays&logo=YOUTUBE&style=for-the-badge)](https://www.youtube.com/channel/UC-ScJRb4-DtdEyMVnDGEGcA)
+
+### I’m a Student from Germany and love Coding
 <!-- About me -->
 - 🔭 I’m currently working on my personal [Portfolio][portfolio]
 - 🌱 I’m currently learning C++ / Java / Python
 - 🥅 2020 Goals: Stay focused on my Goals
-- ⚡ Fun fact: I’m a total Nerd and Love Marvel and Star Wars
-
-<br />
----
-
-<!-- Connect with me -->
+- ⚡ Fun fact: I’m a total Nerd and love Marvel and Star Wars
+- 📫 How to reach me: chrismerck@gmx.de
 
 <!-- My Languages and Tools -->
 ### My Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
-<img align="left" alt="dot-NET" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-original.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-plain.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="36x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="C" width="36x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="36x" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="36x" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Python" width="36x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="36x" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" />
+<img align="left" alt="dot-NET" width="36x" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-original.svg" />
+<img align="left" alt="Unity" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="bash" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-plain.svg" />
+<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
----
+<br />
 
 <!-- GitHub Stats -->
 ### My Dev Statistics
-
+<p>
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freakeyplays&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakeyplays&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakeyplays&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-[portfolio]: http://christophmerck.de
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+[portfolio]: https://github.com/FreakeyPlays/Portfolio
+[website]: http://christophmerck.de
