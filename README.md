@@ -13,8 +13,7 @@
 - 🔭 I’m currently working on my personal [Portfolio][portfolio]
 - 🌱 I’m currently learning C++ / Java / Python
 - 🥅 2020 Goals: Stay focused on my Goals
-- ⚡ Fun fact: I’m a total Nerd and love Marvel and Star Wars
-- 📫 How to reach me: chrismerck@gmx.de
+- ⚡ Fun fact: I’m a total Nerd and love Marvel, Star Wars and Harry Potter
 
 <!-- My Languages and Tools -->
 ### My Languages and Tools:
