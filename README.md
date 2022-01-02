@@ -4,15 +4,15 @@
 ## Hi there, I’m Chris 🌈 - aka [FreakeyPlays][website] 👋
 
 <!-- Shields -->
-[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=CHRISTOPHMERCK.com&style=for-the-badge&up_color=83B81A&up_message=UP&url=http%3A%2F%2Fchristophmerck.com)](http://www.christophmerck.de)
+[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=chris.dev&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://freakeyplays.github.io/dev-portfolio/)](https://freakeyplays.github.io/dev-portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/freakeyplays?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/FreakeyPlays)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-ScJRb4-DtdEyMVnDGEGcA?color=%23FF0000&label=Freakeyplays&logo=YOUTUBE&style=for-the-badge)](https://www.youtube.com/channel/UC-ScJRb4-DtdEyMVnDGEGcA)
 
 ### I’m a Student from Germany and love Coding
 <!-- About me -->
-- 🔭 I’m currently working on my personal [Portfolio][portfolio]
-- 🌱 I’m currently learning C++ / Java / Python
-- 🥅 2020 Goals: Stay focused on my Goals
+- 🔭 I’m currently working on my personal [Portfolio](https://freakeyplays.github.io/dev-portfolio/)
+- 🌱 I’m currently learning C# / Java / Python
+- 🥅 2021 Goals: Focus on studying and my portfolio
 - ⚡ Fun fact: I’m a total Nerd and love Marvel, Star Wars and Harry Potter
 
 <!-- My Languages and Tools -->
