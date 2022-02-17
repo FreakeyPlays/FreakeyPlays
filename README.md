@@ -1,18 +1,17 @@
 <!-- Banner -->
 ![banner](https://user-images.githubusercontent.com/78086475/126980922-013a3498-c6ea-444f-b422-2c1d373b85f1.png)
 
-## Hi there, I’m Chris 🌈 - aka [FreakeyPlays][website] 👋
+## Hi there, I’m Chris 🌈 - aka FreakeyPlays 👋
 
 <!-- Shields -->
-[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=chris.dev&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://freakeyplays.github.io/dev-portfolio/)](https://freakeyplays.github.io/dev-portfolio/)
+[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=Portfolio&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://freakeyplays.github.io)](https://freakeyplays.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/freakeyplays?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/FreakeyPlays)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-ScJRb4-DtdEyMVnDGEGcA?color=%23FF0000&label=Freakeyplays&logo=YOUTUBE&style=for-the-badge)](https://www.youtube.com/channel/UC-ScJRb4-DtdEyMVnDGEGcA)
 
 ### I’m a Student from Germany and love Coding
 <!-- About me -->
-- 🔭 I’m currently working on my personal [Portfolio](https://freakeyplays.github.io/dev-portfolio/)
+- 🔭 I’m currently trying to code my fist Game
 - 🌱 I’m currently learning C# / Java / Python
-- 🥅 2021 Goals: Focus on studying and my portfolio
+- 🥅 2022 Goals: Focus on studying
 - ⚡ Fun fact: I’m a total Nerd and love Marvel, Star Wars and Harry Potter
 
 <!-- My Languages and Tools -->
