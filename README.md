@@ -1,20 +1,34 @@
 <!-- Banner -->
 ![banner](https://user-images.githubusercontent.com/78086475/126980922-013a3498-c6ea-444f-b422-2c1d373b85f1.png)
 
-## Hi there, I’m Chris 🌈 - aka FreakeyPlays 👋
-
 <!-- Shields -->
 [![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=Portfolio&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://freakeyplays.github.io)](https://freakeyplays.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/freakeyplays?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/FreakeyPlays)
 
-### I’m a Student from Germany and love Coding
 <!-- About me -->
-- 🔭 I’m currently trying to code my fist Game
-- 🌱 I’m currently learning C# / Java / Python
-- 🥅 2022 Goals: Focus on studying
-- ⚡ Fun fact: I’m a total Nerd and love Marvel, Star Wars and Harry Potter
+## <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" height="35px"> there, I’m Chris <img src="https://media.giphy.com/media/RlMdnpMSCrSUMxGyY6/giphy.gif" width="25px" height="25px"> - aka FreakeyPlays <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<!-- My Languages and Tools -->
+<img src="https://media.giphy.com/media/ttKcn2vlNotd8NfW09/giphy.gif" align="left" width="125px" height="125px">
+ 
+<br>
+I'm a Software Engineering and Media Computing Student at Esslingen University.<br />
+Currently, I am learning all kinds of Web Technologies, reaching from Frontend to Backend.<br />
+I am looking forward to learning new techniques and new Frameworks to create fascinating applications.
+  
+<br clear="left"/>
+
+<img src="https://media.giphy.com/media/P0AAYrAqanwv3BVthV/giphy.gif" align="right" width="150px" height="150px">
+
+### Me, in a Nutshell
+- 🎬 favorite Movies and Series: Marvel's Thor Ragnorak, Star Wars IX and WandaVision
+- 🦸 favorite Superhero: Thor Odinson (played by Chris Hemsworth)
+- 🧑‍💻 favorite Programming Language: JavaScript / TypeScript
+- ⚙️ favorite IDE: Visual Studio Code
+- 🥅 2022 Goals: Stay focused on studying.
+- ⚡ Fun fact: Did you know that WandaVision had more visual Effects than Endgame?
+<tr clear="right"/>
+
+<!-- My Languages, Frameworks and Tools -->
 ### My Languages:
 
 <img align="left" alt="C" width="30x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
@@ -51,6 +65,3 @@
 <!-- Most Used Languages -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakeyplays&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=15&theme=dark"/>
 </p>
-
-[portfolio]: https://github.com/FreakeyPlays/Portfolio
-[website]: http://christophmerck.com
