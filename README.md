@@ -2,7 +2,7 @@
 ![banner](https://user-images.githubusercontent.com/78086475/126980922-013a3498-c6ea-444f-b422-2c1d373b85f1.png)
 
 <!-- Shields -->
-[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=Portfolio&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://freakeyplays.github.io)](https://freakeyplays.github.io)
+[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=Portfolio&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://chrismerck.me)](https://chrismerck.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/freakeyplays?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/FreakeyPlays)
 
 <!-- About me -->
@@ -20,11 +20,11 @@ I am looking forward to learning new techniques and new Frameworks to create fas
 <img src="https://media.giphy.com/media/P0AAYrAqanwv3BVthV/giphy.gif" align="right" width="150px" height="150px">
 
 ### Me, in a Nutshell
-- 🎬 favorite Movies and Series: Marvel's Thor Ragnorak, Star Wars IX and WandaVision
-- 🦸 favorite Superhero: Thor Odinson (played by Chris Hemsworth)
 - 🧑‍💻 favorite Programming Language: JavaScript / TypeScript
 - ⚙️ favorite IDE: Visual Studio Code
 - 🥅 2022 Goals: Stay focused on studying.
+- 🎬 favorite Movies and Series: Marvel's Thor Ragnorak, Star Wars IX and WandaVision
+- 🦸 favorite Superhero: Thor Odinson (played by Chris Hemsworth)
 - ⚡ Fun fact: Did you know that WandaVision had more visual Effects than Endgame?
 <tr clear="right"/>
 
