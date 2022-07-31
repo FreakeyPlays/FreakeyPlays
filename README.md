@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://user-images.githubusercontent.com/78086475/126980922-013a3498-c6ea-444f-b422-2c1d373b85f1.png)
+![banner](https://user-images.githubusercontent.com/78086475/182039128-4277ac69-4ec6-446a-8411-92397c28e11a.png)
 
 <!-- Shields -->
 [![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=Portfolio&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://chrismerck.me)](https://chrismerck.me)
