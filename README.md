@@ -25,8 +25,8 @@ I am looking forward to learning new techniques and new Frameworks to create fas
 ### Me, in a Nutshell
 
 - 🧑‍💻 favorite Programming Language: JavaScript / TypeScript
-- ⚙️ favorite IDE: Visual Studio Code % IntelliJ IDEA
-- 🥅 2022 Goals: Finish my Bachelor Thesis and learn much about PWA, WebRTC and Astro
+- ⚙️ favorite IDE: Visual Studio Code & IntelliJ IDEA
+- 🥅 2024 Goals: Finish my Bachelor Thesis and learn much about PWA, WebRTC and Astro
 - 🎬 favorite Movies and Series: Marvel's Thor Ragnorak, Star Wars IX and WandaVision
 - 🦸 favorite Superhero: Thor Odinson (played by Chris Hemsworth)
 - ⚡ Fun fact: Did you know that WandaVision had more visual Effects than Endgame?
