@@ -4,7 +4,7 @@
 
 <!-- Shields -->
 
-[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=Portfolio&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://chrismerck.me)](https://chrismerck.dev)
+[![Website](https://img.shields.io/website?down_color=DA1F26&down_message=DOWN&label=Portfolio&style=for-the-badge&up_color=83B81A&up_message=UP&url=https://chrismerck.dev)](https://chrismerck.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/freakeyplays?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/FreakeyPlays)
 
 <!-- About me -->
