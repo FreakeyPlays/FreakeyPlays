@@ -14,8 +14,8 @@
 <img src="https://media.giphy.com/media/ttKcn2vlNotd8NfW09/giphy.gif" align="left" width="125px" height="125px">
 
 <br>
-I'm a Software Engineering and Media Computing Student at Esslingen University.<br />
-Currently, I am writing my Bachelor Thesis with the Topic "Prototypical development of a video streaming application as a progressive web app using Astro".<br />
+I'm a Computer Science and Media Student at HDM Stuttgart.<br />
+Currently, I am in my first semester and focus on the topics of software engineering and artificial Intelligence.<br />
 I am looking forward to learning new techniques and new Frameworks to create fascinating applications.
   
 <br clear="left"/>
@@ -26,7 +26,7 @@ I am looking forward to learning new techniques and new Frameworks to create fas
 
 - 🧑‍💻 favorite Programming Language: JavaScript / TypeScript
 - ⚙️ favorite IDE: Visual Studio Code & IntelliJ IDEA
-- 🥅 2024 Goals: Finish my Bachelor Thesis and learn much about PWA, WebRTC and Astro
+- 🥅 Goals: Gain new knowledge 
 - 🎬 favorite Movies and Series: Marvel's Thor Ragnorak, Star Wars IX and WandaVision
 - 🦸 favorite Superhero: Thor Odinson (played by Chris Hemsworth)
 - ⚡ Fun fact: Did you know that WandaVision had more visual Effects than Endgame?
